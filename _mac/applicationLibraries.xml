@@ -1,0 +1,70 @@
+<application>
+  <component name="libraryTable">
+    <library name="$USER_HOME$/Library/Python/3.8/lib/python/site-packages">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Python/3.8/lib/python/site-packages" />
+        <root url="file:///usr/local/lib/python3.8/site-packages" />
+        <root url="file:///usr/local/Cellar/protobuf/3.13.0/libexec/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/-1199943125" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+        <root url="file:///usr/local/Cellar/python@3.8/3.8.6/Frameworks/Python.framework/Versions/3.8/lib/python3.8" />
+      </CLASSES>
+      <JAVADOC />
+      <NATIVE>
+        <root url="file:///usr/local/Cellar/python@3.8/3.8.6/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" />
+      </NATIVE>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Python/3.8/lib/python/site-packages" />
+        <root url="file:///usr/local/lib/python3.8/site-packages" />
+        <root url="file:///usr/local/Cellar/protobuf/3.13.0/libexec/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/-1199943125" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.8 interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/python@3.8/3.8.6/Frameworks/Python.framework/Versions/3.8/lib/python3.8" />
+        <root url="file:///usr/local/Cellar/python@3.8/3.8.6/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.8/lib/python/site-packages" />
+        <root url="jar://$USER_HOME$/Library/Python/3.8/lib/python/site-packages/adb_client-0.0.3-py3.8.egg!/" />
+        <root url="jar://$USER_HOME$/Library/Python/3.8/lib/python/site-packages/pythonadb-0.0.3-py3.8.egg!/" />
+        <root url="file:///usr/local/lib/python3.8/site-packages" />
+        <root url="file:///usr/local/Cellar/protobuf/3.13.0/libexec/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/-1199943125" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/python@3.8/3.8.6/Frameworks/Python.framework/Versions/3.8/lib/python3.8" />
+        <root url="file:///usr/local/Cellar/python@3.8/3.8.6/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/3.8/lib/python/site-packages" />
+        <root url="jar://$USER_HOME$/Library/Python/3.8/lib/python/site-packages/adb_client-0.0.3-py3.8.egg!/" />
+        <root url="jar://$USER_HOME$/Library/Python/3.8/lib/python/site-packages/pythonadb-0.0.3-py3.8.egg!/" />
+        <root url="file:///usr/local/lib/python3.8/site-packages" />
+        <root url="file:///usr/local/Cellar/protobuf/3.13.0/libexec/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/-1199943125" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
